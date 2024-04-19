@@ -1,0 +1,6 @@
+ID;OrderID;OrderDate;RequiredDate;ShippedDate;ShipVia;Freight;ShipName;ShipAddress;ShipCity;ShipRegion;ShipPostalCode;ShipCountry;customer_ID;employee_ID
+08521911-a6f7-4f95-bb44-79c3dab71f55;10248;1996-07-04;1996-08-01;1996-07-16;3;32.38;Vins et alcools Chevalier;59 rue de l'Abbaye;Reims;;51100;France;7cc94e48-61d2-41a6-9747-dbc449aaf30a;bea0e54f-d518-4e33-a831-5b11b106b7a6
+f6c4f63d-c90e-4708-a70d-ffd86c7df7e7;10249;1996-07-05;1996-08-16;1996-07-10;1;11.61;Toms Spezialitäten;Luisenstr. 48;Münster;;44087;Germany;a3ca5734-c79b-4f10-9823-0ad89a4e56f3;31bb82bf-3e71-43eb-bc78-44f0ebc2538d
+3a350d9f-0d69-4408-aef1-2d1e4433586e;10250;1996-07-08;1996-08-05;1996-07-12;2;65.83;Hanari Carnes;Rua do Paço, 67;Rio de Janeiro;RJ;05454-876;Brazil;b2912e9f-cf39-4fa2-8f9c-d1b54d647a24;589d3e20-e163-4e22-848b-70a1bf85464e
+61ce6866-be4e-4d6c-a6f4-0c630b5a4849;10251;1996-07-08;1996-08-05;1996-07-15;1;41.34;Victuailles en stock;2, rue du Commerce;Lyon;;69004;France;1a684ee8-bcae-42c8-8a48-25fc363ebf1e;d6181545-7a99-4f6a-81cf-819fa9dfdb90
+c26a38e2-f816-4db6-9e36-7f9c96447086;10252;1996-07-09;1996-08-06;;2;51.30;Suprêmes délices;Boulevard Tirou, 255;Charleroi;;B-6000;Belgium;29e60101-754c-4565-a806-fb13117268a6;33a1cc97-29a1-4a16-a21b-32eda8c95569

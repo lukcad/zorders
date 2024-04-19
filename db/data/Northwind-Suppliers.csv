@@ -1,0 +1,6 @@
+ID;SupplierID;CompanyName;ContactName;ContactTitle;Address;City;Region;PostalCode;Country;Phone;Fax;HomePage;categories_ID
+139ded6f-6596-4fcc-ad39-efcf9f0df70b;1;Exotic Liquids;Charlotte Cooper;Purchasing Manager;49 Gilbert St.;London;;EC1 4SD;UK;(171) 555-2222;18bb6082-3863-4c7a-828e-9bd30eed6b7f;#CAFEF0;a5328de6-34df-481c-b8ab-b90720023ed1
+8e364613-a36d-45d7-a2eb-329e093bcd30;2;New Orleans Cajun Delights;Shelley Burke;Order Administrator;P.O. Box 78934;New Orleans;LA;70117;USA;(100) 555-4822;adf7881b-5aa8-4684-a82d-3b53f89a52bb;#CAFEF0;a5328de6-34df-481c-b8ab-b90720023ed1
+1b51e45f-bc65-468d-838c-c0d078b36dcb;3;Grandma Kelly's Homestead;Regina Murphy;Sales Representative;707 Oxford Rd.;Ann Arbor;MI;48104;USA;(313) 555-5735;(313) 555-3349;#CAFEF0;b408fb91-4a54-41fe-81ff-a3d4d178ee41
+5b10957a-1d05-4648-8fab-95dda4d2f593;4;Tokyo Traders;Yoshi Nagase;Marketing Manager;9-8 Sekimai Musashino-shi;Tokyo;;100;Japan;(03) 3555-5011;#CAFEF0;b408fb91-4a54-41fe-81ff-a3d4d178ee41
+5dd1e36c-e9bf-4031-9782-455b3cd7c93e;5;Cooperativa de Quesos 'Las Cabras';Antonio del Valle Saavedra;Export Administrator;Calle del Rosal 4;Oviedo;Asturias;33007;Spain;da215fc9-f856-4c8a-82cd-7abbb86db445;23f315e8-9c5e-4ed1-8132-5f5df574b412;#CAFEF0;b408fb91-4a54-41fe-81ff-a3d4d178ee41

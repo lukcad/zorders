@@ -1,0 +1,6 @@
+ID;ProductID;ProductName;QuantityPerUnit;UnitPrice;UnitsInStock;Discontinued;category_ID;supplier_ID
+0f6478f4-2b9d-46e3-8cac-6f7c3d2647b7;1;Chai;10 boxes x 20 bags;18.00;39;false;a5328de6-34df-481c-b8ab-b90720023ed1;139ded6f-6596-4fcc-ad39-efcf9f0df70b
+ed62abab-915a-49f8-8a83-cd0acd9d42d2;2;Chang;24 - 12 oz bottles;19.00;17;false;a5328de6-34df-481c-b8ab-b90720023ed1;8e364613-a36d-45d7-a2eb-329e093bcd30
+31aa2e4a-5914-47f3-8286-5eaaeef0ec1a;3;Aniseed Syrup;12 - 550 ml bottles;10.00;13;false;b408fb91-4a54-41fe-81ff-a3d4d178ee41;1b51e45f-bc65-468d-838c-c0d078b36dcb
+be21c8f4-b66b-4f9a-9cd7-372228393730;4;Chef Anton's Cajun Seasoning;48 - 6 oz jars;22.00;53;false;b408fb91-4a54-41fe-81ff-a3d4d178ee41;5b10957a-1d05-4648-8fab-95dda4d2f593
+938fbe45-6325-43b4-9d3f-6487047b6564;5;Chef Anton's Gumbo Mix;36 boxes;21.35;0;true;b408fb91-4a54-41fe-81ff-a3d4d178ee41;5dd1e36c-e9bf-4031-9782-455b3cd7c93e
