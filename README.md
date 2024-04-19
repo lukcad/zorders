@@ -4,7 +4,7 @@ Welcome to simplified project for studding composition, draft tables and code fo
 
 ## Your Steps
 
-- create using SAP build your ptoject `zorderz` by cloning this link: https://github.com/lukcad/zorders.git
+- create using SAP build your ptoject `zorders` by cloning this link: https://github.com/lukcad/zorders.git
 - Once project is created, open a new terminal and run `npm i`, then `cds deploy` and `cds w`
 
 
