@@ -1,25 +1,13 @@
-# Getting Started
+# ZORDERS
 
-Welcome to your new project.
+Welcome to simplified project for studiing composition, draft tables and code for action which can Joule provide in moment.
 
-It contains these folders and files, following our recommended project layout:
+## Your Steps
 
-File or Folder | Purpose
----------|----------
-`app/` | content for UI frontends goes here
-`db/` | your domain models and data go here
-`srv/` | your service models and code go here
-`package.json` | project metadata and configuration
-`readme.md` | this getting started guide
-
-
-## Next Steps
-
-- Open a new terminal and run `cds watch`
-- (in VS Code simply choose _**Terminal** > Run Task > cds watch_)
-- Start adding content, for example, a [db/schema.cds](db/schema.cds).
+- create using SAP build your ptoject `zorderz` by cloning this link: https://github.com/lukcad/zorders.git
+- Once project is created, open a new terminal and run `npm i`, then `cds deploy` and `cds w`
 
 
 ## Learn More
 
-Learn more at https://cap.cloud.sap/docs/get-started/.
+Learn more about htis example at [Create full-stack app, use entity drafts, use Joule to create action code.](https://community.sap.com/t5/welcome-corner-blog-posts/create-full-stack-app-use-entity-drafts-use-joule-to-create-action-code/ba-p/13676527)
