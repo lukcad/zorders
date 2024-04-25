@@ -11,3 +11,51 @@ Welcome to simplified project for studding composition, draft tables and code fo
 ## Learn More
 
 Learn more about htis example at [Create full-stack app, use entity drafts, use Joule to create action code.](https://community.sap.com/t5/welcome-corner-blog-posts/create-full-stack-app-use-entity-drafts-use-joule-to-create-action-code/ba-p/13676527)
+
+## Steps to clone it to your SAP Build Code
+
+- Start SAP Build Code and in Lobby press `Clone`
+
+  <img width="535" alt="image" src="https://github.com/lukcad/zproducts/assets/22641302/3f4634f8-e876-433e-86e2-137e47ebc535">
+
+- Choose `Full-Stack Applicaiton`
+
+  <img width="533" alt="image" src="https://github.com/lukcad/zproducts/assets/22641302/505b4149-f352-4d34-9f71-72a739ee2e73">
+
+- provide parameters and press Create
+
+  |Clone from Git|Project Name|
+  |-----|------|
+  |https://github.com/lukcad/zorders.git|zorders|
+
+  ![image](https://github.com/lukcad/zorders/assets/22641302/c7136a75-5a59-40e6-9164-22939b9cdf3c)
+
+- finally you will have application in SAP Build code:
+
+  ![image](https://github.com/lukcad/zorders/assets/22641302/8e20c32c-ac98-4a82-ad7d-7c490361a889)
+
+- Use `quick access` to initialize and run applicaiton:
+
+  <img width="478" alt="image" src="https://github.com/lukcad/zorders/assets/22641302/46557bb5-8eb8-425e-a519-7479b7aed320">
+
+- This launchpad will be opened:
+
+  ![image](https://github.com/lukcad/zorders/assets/22641302/7afe419c-89fc-4f61-8516-358f88e6d291)
+
+- Explore Apllication `Orders`
+
+  ![image](https://github.com/lukcad/zorders/assets/22641302/60578a46-e1d9-45a8-93be-f2f56dda1198)
+
+- Open details of order and try:
+  
+  ![image](https://github.com/lukcad/zorders/assets/22641302/426167f0-44ef-4e5c-87c1-6a9678300d1a)
+
+- Go back to `SAP Build Code` and explore Graphical representations, especially by Graphical SCD veiw and code for working with draft area. In SAP Community Article [Create full-stack app, use entity drafts, use Joule to create action code.](https://community.sap.com/t5/welcome-corner-blog-posts/create-full-stack-app-use-entity-drafts-use-joule-to-create-action-code/ba-p/13676527) everything is expalained about how to create such applicaiton from scratch by using generative AO `Joule` and generators for FIORI.
+
+Happy programming by using `Low code` great approach and `Joule`. 
+
+
+
+Thank you,
+
+Mikhail.
